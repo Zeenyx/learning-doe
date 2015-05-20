@@ -1,0 +1,7 @@
+if( "randomname of stuff".length>=12) {
+  console.log("too long bruh);
+  }
+  else{
+    console.log("u gud");
+  }
+  
